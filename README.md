@@ -51,7 +51,7 @@ For each project, the following key steps were performed:
 |--------------------|------------------------------------------------------------------|-------------------------------------|
 | [👥 HR Analysis](./hr_analysis/README.md)   | Analyze employee attrition, satisfaction, and job roles across departments. | ![](./hr_analysis/Images/home.jpg)   |
 | [🛒 Blinkit Sales](./blinkit_analysis/README.md)    | Sales and order tracking with delivery performance insights for Blinkit. | ![](./blinkit_analysis/Images/home.jpg)        |
-| [🍕 Pizzasop Sales](./Pizzasop/README.md)  | Monitor pizza sales trends, customer preferences, and operational metrics. | ![](./pizza_sales_analysis/Images/home.jpg)       || ![](./pizza_sales_analysis/Images/page_2.jpg)       |
+| [🍕 Pizzashop Sales](./pizza_sales_analysis/README.md)  | Monitor pizza sales trends, customer preferences, and operational metrics. | ![](./pizza_sales_analysis/Images/home.jpg)       || ![](./pizza_sales_analysis/Images/page_2.jpg)       |
 
 
 ---
