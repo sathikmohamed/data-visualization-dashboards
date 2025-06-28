@@ -55,13 +55,14 @@ For each project, the following key steps were performed:
 
 ---
 
-### 👥 [HR Analysis](./hr_analysis/README.md)
+### 🍕 [Pizzashop Sales Analysis](./pizza_sales_analysis/README.md)
 
-Analyze employee attrition, satisfaction, and job roles across departments.
+Monitor pizza sales trends, top-performing items, customer preferences, and revenue by category.
 
 **Screenshots:**
 
-![HR Home](./hr_analysis/Images/home.jpg)  
+![Pizza Sales Home](./pizza_sales_analysis/Images/home.jpg)  
+![Pizza Sales Details](./pizza_sales_analysis/Images/page_2.jpg)
 
 ---
 
@@ -73,16 +74,18 @@ Track Blinkit's order volume, revenue, delivery times, and item performance.
 
 ![Blinkit Home](./blinkit_analysis/Images/home.jpg)  
 
+
 ---
 
-### 🍕 [Pizzashop Sales Analysis](./pizza_sales_analysis/README.md)
+---
 
-Monitor pizza sales trends, top-performing items, customer preferences, and revenue by category.
+### 👥 [HR Analysis](./hr_analysis/README.md)
+
+Analyze employee attrition, satisfaction, and job roles across departments.
 
 **Screenshots:**
 
-![Pizza Sales Home](./pizza_sales_analysis/Images/home.jpg)  
-![Pizza Sales Details](./pizza_sales_analysis/Images/page_2.jpg)
+![HR Home](./hr_analysis/Images/home.jpg)  
 
 ---
 
