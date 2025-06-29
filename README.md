@@ -55,13 +55,13 @@ For each project, the following key steps were performed:
 
 ---
 
-### # 🚲 [Two-Wheeler Sales Analysis] (./two_wheeler_sales_analysis/README.md)
+### 🚲 [Two wheeler Sales Analysis](./two_wheeler_sales_analysis/README.md)
 
 A Power BI dashboard designed to analyze two-wheeler sales data in India across FY 2023-2024 and FY 2024-2025, focusing on manufacturer performance, sales trends, and market share.
 
 **Screenshots:**
 
-![Two-Wheeler Sales Analysis Dashboard Home](./two_wheeler_sales_analysis/Images/home.jpg)  
+![Two Wheeler Sales Analysis Dashboard Home](./two_wheeler_sales_analysis/Images/home.jpg)  
 
 ---
 
