@@ -96,6 +96,19 @@ Analyze employee attrition, satisfaction, and job roles across departments.
 
 ---
 
+---
+
+### 👥 [Super Store Sales Analysis](./superstore_sale_analysis/README.md)
+
+Analyze employee attrition, satisfaction, and job roles across departments.
+
+**Screenshots:**
+
+![HR Home](./superstore_sale_analysis/Images/home.jpg)  
+
+---
+
+
 ## 📌 How to Use
 
 1. Clone or download this repo.  
