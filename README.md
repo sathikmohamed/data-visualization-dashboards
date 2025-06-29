@@ -57,7 +57,7 @@ For each project, the following key steps were performed:
 
 ### # 🚲 [Two-Wheeler Sales Analysis] (./two_wheeler_sales_analysis/README.md)
 
-Monitor pizza sales trends, top-performing items, customer preferences, and revenue by category.
+A Power BI dashboard designed to analyze two-wheeler sales data in India across FY 2023-2024 and FY 2024-2025, focusing on manufacturer performance, sales trends, and market share.
 
 **Screenshots:**
 
@@ -112,7 +112,7 @@ Analyze employee attrition, satisfaction, and job roles across departments.
 
 ### 👥 [Super Store Sales Analysis](./superstore_sale_analysis/README.md)
 
-Analyze employee attrition, satisfaction, and job roles across departments.
+A Power BI dashboard designed to analyze sales data across multiple dimensions including region, segment, category, and product performance.
 
 **Screenshots:**
 
