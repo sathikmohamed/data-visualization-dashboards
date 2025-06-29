@@ -55,6 +55,18 @@ For each project, the following key steps were performed:
 
 ---
 
+### # 🚲 [Two-Wheeler Sales Analysis] (./two_wheeler_sales_analysis/README.md)
+
+Monitor pizza sales trends, top-performing items, customer preferences, and revenue by category.
+
+**Screenshots:**
+
+![Two-Wheeler Sales Analysis Dashboard Home](./two_wheeler_sales_analysis/Images/home.jpg)  
+
+---
+
+---
+
 ### 🍕 [Pizzashop Sales Analysis](./pizza_sales_analysis/README.md)
 
 Monitor pizza sales trends, top-performing items, customer preferences, and revenue by category.
@@ -82,7 +94,7 @@ Analyze Various Conditions Road Accident data (uk 2021-2022).
 
 **Screenshots:**
 
-![HR Home](./road_accident_analysis/Images/home.jpg)  
+![Road Accident Analysis](./road_accident_analysis/Images/home.jpg)  
 
 ---
 
@@ -104,7 +116,7 @@ Analyze employee attrition, satisfaction, and job roles across departments.
 
 **Screenshots:**
 
-![HR Home](./superstore_sale_analysis/Images/home.jpg)  
+![Super Store Sales Home](./superstore_sale_analysis/Images/home.jpg)  
 
 ---
 
