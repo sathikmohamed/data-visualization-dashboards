@@ -120,6 +120,20 @@ A Power BI dashboard designed to analyze sales data across multiple dimensions i
 
 ---
 
+---
+
+### 👥 [HR Data Analysis](./hr_data_analysis/README.md)
+
+A dashboard designed to analyze employee data across various dimensions including department, job role, and demographics.
+
+**Screenshots:**
+
+![Hr Data Home](./hr_data_analysis/Images/home.jpg)  
+![Hr Data Details](./hr_data_analysis/Images/details.jpg)  
+
+---
+
+
 
 ## 📌 How to Use
 
